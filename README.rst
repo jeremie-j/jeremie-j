@@ -7,3 +7,5 @@ Hello 👋
 We're the |date|
 
 Have a nice day !
+
+* * *
